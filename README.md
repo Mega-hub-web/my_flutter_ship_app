@@ -24,12 +24,12 @@ this app provides a seamless user experience for both customers and logistics se
 <table>
 <tr>
 <td>
-<img src="https://github.com/mimi-tech/suremove_logistics_app/assets/62711340/bcd494c1-5156-4496-8d6f-707fe0aa9596">
+<img src="https://github.com/Mega-hub-web/my_flutter_ship_app/assets/62711340/bcd494c1-5156-4496-8d6f-707fe0aa9596">
 
 </td>
 
 <td>
-<img src="https://github.com/mimi-tech/suremove_logistics_app/assets/62711340/69d7bdcb-463b-44e1-a8e2-ad01ff54af7c">
+<img src="https://github.com/mimi-tech/Mega-hub-web/my_flutter_ship_app/assets/62711340/69d7bdcb-463b-44e1-a8e2-ad01ff54af7c">
 </td>
 </tr>
 </table>
@@ -43,7 +43,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Getting Started
 <p>To get started with the Inventory Management App, follow these steps:</p>
 
-1. Clone the repository: git clone https://github.com/mimi-tech/suremove_logistics_app
+1. Clone the repository: git clone https://github.com/Mega-hub-web/suremove_logistics_app
 2. Navigate to the project directory: cd project name 
 3. Install the dependencies: flutter pub get 
 4. Run the app: flutter run
@@ -60,7 +60,6 @@ The app utilizes the following dependencies:
 </ul>
 Make sure to check the pubspec.yaml file for the complete list of dependencies and their versions.
 
-## Playstore Link: <a href="https://play.google.com/store/apps/details?id=co.miriamly.suremove"> Download app </a>
 
 ## Contributions
 Contributions to the project are welcome! If you find any issues or would like to suggest enhancements, please open an issue or submit a pull request.
